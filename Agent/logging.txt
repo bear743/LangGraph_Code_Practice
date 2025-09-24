@@ -1,0 +1,17 @@
+Conversation Log:
+User: Hi! I'm bear.
+AI: Hello, bear! It's very nice to meet you.
+
+I'm a large language model, trained by Google.
+
+What can I do for you today?
+
+User: Which Google LLM model are you?
+AI: I am a large language model, trained by Google.
+
+More specifically, I am part of the **Gemini** family of models. Google is constantly updating its models, so you can think of me as being powered by the latest and most capable version of Gemini that's suited for this type of conversation.
+
+User: What is my name?
+AI: You told me your name is bear.
+
+End of Conversation
